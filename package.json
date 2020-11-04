@@ -1,0 +1,30 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command-line based rpg game with potions, players, and enemies fighting to see who wins",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuncanMarten/jest-another-rpg.git"
+  },
+  "keywords": [
+    "battle",
+    "rpg",
+    "fight"
+  ],
+  "author": "Duncan Marten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuncanMarten/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/DuncanMarten/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.6.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
